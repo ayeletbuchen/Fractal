@@ -10,7 +10,7 @@ public class FractalFrame extends JFrame {
     public FractalFrame() {
         setTitle("Koch Curve");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setSize(800, 600);
+        setSize(1100, 700);
         setLayout(new BorderLayout());
         add(component, BorderLayout.CENTER);
     }
